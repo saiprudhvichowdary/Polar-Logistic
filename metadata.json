@@ -1,0 +1,6 @@
+{
+  "name": "Project AVALANCHE: Mission Control & Logistics Intelligence",
+  "description": "Smart India Hackathon extreme environment logistics and asset management platform with station operational condition primacy, centralized risk center, and offline sync resilience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
